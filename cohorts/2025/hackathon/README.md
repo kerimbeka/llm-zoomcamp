@@ -1,7 +1,7 @@
 # DataTalks.Club Summer 2025 AI Hackathon
 
 <p align="center">
-  <img width="80%" src="images/hackathon-cover.png" alt="DataTalks.Club Summer 2025 AI Hackathon">
+  <img width="50%" src="../../../images/hackathon-cover.jpg" alt="DataTalks.Club Summer 2025 AI Hackathon">
 </p>
 
 [![DataTalks.Club](https://img.shields.io/badge/DataTalks.Club-Community-blue)](https://datatalks.club)
@@ -17,13 +17,15 @@ Welcome to the DataTalks.Club Summer 2025 AI Hackathon! This is your opportunity
 2. Form your team or indicate you're looking for teammates
 3. Start brainstorming project ideas
 4. Submit [this form](https://airtable.com/appjxMzaGej3KHwEh/shr12Sx3SGsStvjEd) with your idea so we can review it and add to the list of project ideas
-5. Begin planning and development
+5. Attend our Hackathon Launch Stream ([sign up here](https://lu.ma/i98j574k))
+6. Begin planning and development
 
 ## Quick Links
 
 - [Submit your idea](https://airtable.com/appjxMzaGej3KHwEh/shr12Sx3SGsStvjEd)
 - [Join discussion and find a team](https://datatalks.club/slack.html) (#hackathon channel)
 - [LLM Zoomcamp course materials](https://github.com/DataTalksClub/llm-zoomcamp)
+- [Hackathon Launch Stream](https://lu.ma/i98j574k)
 
 ## About the Hackathon
 
@@ -56,7 +58,7 @@ This hackathon is designed to give you real-world experience in building LLM-pow
 
 | Phase | Dates | Details |
 |:------|:------|:--------|
-| **Hackathon Launch** | July 15, 2025 (Wed) | Live stream where we'll review the project ideas and add selected ones to the "Project Ideas" section. We'll also host an open Q&A session. |
+| **Hackathon Launch** | July 14, 2025 (Mon) | We will review project ideas and answer your questions. |
 | **Build Sprint** | Mid-July - Mid-September | Nine-week window where you'll work on your projects. We'll have weekly office hours to help you and regular check-ins to track progress. |
 | **Final Submission** | September 15, 2025 23:59 CET | Submit your completed project including the demo video, GitHub repository, and article. |
 | **Demo Week** | September 22-26, 2025 | Selected teams will present their projects live. Our panel of judges will evaluate the submissions and announce winners during the closing ceremony. |
@@ -116,6 +118,7 @@ You'll have access to a comprehensive set of community materials:
 - GitHub repositories
 - Previous project submissions
 
+You can also use any other public data that you can find.
 
 ## Submission Requirements
 
@@ -196,6 +199,16 @@ Our distinguished panel of judges includes:
 ## Questions?
 
 Post in the `#hackathon` channel in [Slack](https://datatalks.club/slack.html)
+
+### FAQ
+
+- **Q:** So if someone participates in the hackathon, will it count as a capstone project for LLM Zoomcamp?
+- **A:** No, a project and a hackathon are two separate things. You work on the project alone and it has to satisfy the pre-defined criteria. For the hackathon, you work in teams and you don't have any strict criteria to satisfy. 
+
+
+
+
+
 
 ---
 *Last updated: July 2025*
